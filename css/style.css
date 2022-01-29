@@ -1,0 +1,62 @@
+.header {
+	color: darkgreen;
+}
+.nav__link {
+	color: rgb(238, 11, 86);
+}
+a {
+	color: rgb(7, 88, 34);
+}
+.from-author__text {
+	color: rgb(10, 68, 46);
+}
+.title {
+	color: darkred;
+}
+.go-ceremony__text{
+	color: rgb(63, 205, 75);
+}
+/* .go-ceremony__subtitle-text {
+	color: salmon;
+} */
+.go-ceremony__item {
+	color: rgb(20, 69, 231);
+}
+.go-ceremony > p {
+	color: rgb(113, 9, 145);
+}
+.go-ceremony__list {
+	color: palevioletred;
+}
+.evening-ceremony__text {
+	color: rgb(165, 31, 131);
+}
+.evening-ceremony__item {
+	color: rgb(88, 141, 240);
+}
+.remember-ceremony {
+	color: gold;
+}
+/* .remember-ceremony__text {
+	color: rgb(75, 75, 243);
+} */
+[class*="remember-ceremony__text"] {
+	color: rgb(11, 184, 34);
+}
+.footer {
+	color: green;
+}
+footer {
+	color: darkred;
+}
+[class*="subtitle"]{
+	color: rgb(11, 184, 103);
+}
+.subtitle {
+	color: rgb(250, 63, 7);
+}
+h3	{
+	color: darkmagenta;
+}
+
+
